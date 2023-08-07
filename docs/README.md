@@ -9,9 +9,6 @@ sort: 1
 <details class="details-reset details-overlay details-overlay-dark color-fg-accent mb-1 link-mktg arrow-target-mktg link-emphasis-mktg text-semibold f3-mktg">
   <summary aria-haspopup="dialog">PSX DESR</summary>
   <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast">
-    <div class="Box-header">
-      <h3 class="Box-title">PSX DESR</h3>
-    </div>
     <div class="overflow-auto">
       <div class="Box-body overflow-auto">
         <p>
