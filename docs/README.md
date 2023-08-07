@@ -6,7 +6,7 @@ sort: 1
 
 {% include list.liquid all=true %}
 
-<details class="details-reset details-overlay details-overlay-dark">
+<details class="details-reset details-overlay details-overlay-dark color-fg-accent mb-1">
   <summary aria-haspopup="dialog">PSX DESR</summary>
   <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast">
     <div class="Box-header">
