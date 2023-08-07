@@ -46,3 +46,16 @@ sort: 1
 <!-- Temporary overrides (don't use in production) -->
 <style> .frame-example { min-height: 500px; } </style>
 <link href="https://web.archive.org/web/20221221221316/https://unpkg.com/@github/details-dialog-element/dist/index.css" rel="stylesheet" />
+
+
+<div class="d-flex flex-justify-center pt-4">
+  <button type="button" class="tooltipped tooltipped-nw m-2 p-2 border" aria-label="This is the tooltip on the North West side.">
+    .tooltipped-nw
+  </button>
+  <button type="button" class="tooltipped tooltipped-n m-2 p-2 border" aria-label="This is the tooltip on the North side.">
+
+    
+![PSX-DESR](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Console_psx.jpg/450px-Console_psx.jpg)
+  
+  </button>
+  
