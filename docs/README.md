@@ -7,38 +7,17 @@ sort: 1
 {% include list.liquid all=true %}
 
 <details class="details-reset details-overlay details-overlay-dark">
-  <summary class="btn" aria-haspopup="dialog">Open dialog</summary>
+  <summary aria-haspopup="dialog">PSX DESR</summary>
   <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast">
     <div class="Box-header">
-      <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-        <!-- <%= octicon "x" %> -->
-        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
-      </button>
-      <h3 class="Box-title">Box title</h3>
+      <h3 class="Box-title">PSX DESR</h3>
     </div>
     <div class="overflow-auto">
       <div class="Box-body overflow-auto">
         <p>
-          The quick brown fox jumps over the lazy dog and feels as if he were in the seventh heaven of typography together with Hermann Zapf, the most famous artist of the...
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Console_psx.jpg/450px-Console_psx.jpg" alt="Italian Trulli">
         </p>
       </div>
-      <ul>
-        <li class="Box-row">
-          <img class="avatar v-align-middle mr-2" src="https://web.archive.org/web/20221221221316/https://avatars.githubusercontent.com/broccolini?s=48" alt="broccolini" width="24" height="24">
-          @broccolini
-        </li>
-        <li class="Box-row border-bottom">
-          <img class="avatar v-align-middle mr-2" src="https://web.archive.org/web/20221221221316/https://avatars.githubusercontent.com/jonrohan?s=48" alt="jonrohan" width="24" height="24">
-          @jonrohan
-        </li>
-        <li class="Box-row border-bottom">
-          <img class="avatar v-align-middle mr-2" src="https://web.archive.org/web/20221221221316/https://avatars.githubusercontent.com/shawnbot?s=48" alt="shawnbot" width="24" height="24">
-          @shawnbot
-        </li>
-      </ul>
-    </div>
-    <div class="Box-footer">
-      <button type="button" class="btn btn-block" data-close-dialog>Okidoki</button>
     </div>
   </details-dialog>
 </details>
@@ -47,15 +26,3 @@ sort: 1
 <style> .frame-example { min-height: 500px; } </style>
 <link href="https://web.archive.org/web/20221221221316/https://unpkg.com/@github/details-dialog-element/dist/index.css" rel="stylesheet" />
 
-
-<div class="d-flex flex-justify-center pt-4">
-  <button type="button" class="tooltipped tooltipped-nw m-2 p-2 border" aria-label="This is the tooltip on the North West side.">
-    .tooltipped-nw
-  </button>
-  <button type="button" class="tooltipped tooltipped-n m-2 p-2 border" aria-label="This is the tooltip on the North side.">
-
-    
-![PSX-DESR](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Console_psx.jpg/450px-Console_psx.jpg)
-  
-  </button>
-  
